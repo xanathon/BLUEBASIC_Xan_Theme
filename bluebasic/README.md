@@ -1,4 +1,4 @@
-# BLUEBASIC_Theme
+# BLUEBASIC_Xan_Theme
 
 This is a variation of the Hubzilla standard theme "Redbasic". It is heavily inspired by Sean Tilley's work and his "Suckerberg" theme which you can finde here: https://github.com/DeadSuperHero/hubzilla-themes. 
 
