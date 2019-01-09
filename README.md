@@ -1,4 +1,10 @@
-# BLUEBASIC_Theme
+# BLUEBASIC_Xan_Theme
+
+I wanted to make changes to Bluebasic and thus forked it - Xanathon. Original readme below
+
+<code>util/add_theme_repo https://github.com/xanathon/BLUEBASIC_Xan_Theme.git bluebasicxan</code>
+
+--------------------------------------------------------------------------------------------------
 
 This is a variation of the Hubzilla standard theme "Redbasic". It is heavily inspired by Sean Tilley's work and his "Suckerberg" theme which you can finde here: https://github.com/DeadSuperHero/hubzilla-themes. 
 
@@ -8,4 +14,4 @@ The theme makes use of all available theme settings and is fully colour customiz
 
 These files need to be saved in the /view/theme/ directory of your Hubzilla. You can just ftp the files onto your hub or SSH into that directory and git clone this repo.
 
-<code>util/add_theme_repo https://github.com/BOETZILLA/BLUEBASIC_Theme.git bluebasic</code>
+
